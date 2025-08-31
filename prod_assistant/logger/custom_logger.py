@@ -17,6 +17,8 @@ class CustomLogger:
         logger_name = os.path.basename(name)
 
         # Configure logging for console + file (both JSON)
+        print(f"self.log_file_path")
+        print(self.log_file_path)
         file_handler = logging.FileHandler(self.log_file_path)
         file_handler.setLevel(logging.INFO)
         file_handler.setFormatter(logging.Formatter("%(message)s"))  # Raw JSON lines
