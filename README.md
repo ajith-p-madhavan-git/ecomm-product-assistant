@@ -1,5 +1,24 @@
 Ecommerce Product Assistant
 
+E-commerce Product Assistant (RAG-based Conversational AI Bot)
+This project is an AI-powered product assistant designed to enhance customer experience on e-commerce platforms. Leveraging Retrieval-Augmented Generation (RAG), the assistant retrieves relevant product data from structured and unstructured sources (catalogs, FAQs, reviews, specifications) and generates contextually accurate, natural language responses. It enables customers to discover, compare, and explore products through conversational interaction, reducing search friction and improving decision-making.
+
+Key features include:
+
+Intelligent product search: Understands natural language queries and retrieves the most relevant items.
+
+Personalized recommendations: Suggests products based on user intent, preferences, and context.
+
+Product comparisons: Provides side-by-side details of multiple items for informed choices.
+
+Query handling: Answers FAQs related to pricing, availability, delivery, and policies.
+
+Scalable architecture: Built with modular RAG pipelines ensuring accurate, up-to-date, and context-aware responses.
+
+This assistant acts as a virtual shopping guide, improving customer engagement, conversion rates, and satisfaction.
+
+
+
 
 These are all the commands which you need to run on your command prompt
 
